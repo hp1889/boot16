@@ -3,4 +3,4 @@ applications:
 - name: boot-solution-16
   memory: 512M
   buildpack: https://github.com/cloudfoundry/java-buildpack
-  path: /target/lab-1-boot-solution-1.jar
+  path: target/lab-1-boot-solution-1.jar
